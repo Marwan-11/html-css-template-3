@@ -1,6 +1,6 @@
 <h1 align="center">Marwan</h1>
 
-<p align="center">Marwan is an Html + Css project</p>
+<p align="center">A personal landing page from scratch, showcasing my web design and development skills. This landing page will serve as an online introduction, or digital business card. It's an opportunity to express my creativity and design sensibilities.</p>
 
 ## Links
 
